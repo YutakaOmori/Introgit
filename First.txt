@@ -4,3 +4,4 @@ Gitの練習
 ・GitCommit
 ・Gitrm
 ・GitStatus
+・GitDiff
