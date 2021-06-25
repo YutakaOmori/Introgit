@@ -3,3 +3,4 @@ Gitの練習
 ・GitAdd
 ・GitCommit
 ・Gitrm
+・GitStatus
